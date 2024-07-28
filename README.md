@@ -1,7 +1,7 @@
 # 42 Project: cub3D
 
 ## Watch the Video
-[![Watch the video](aa.png)](https://andreianghi.ddns.net/Assets/img/progetti/)
+[![Watch the video](aa.png)](https://andreianghi.ddns.net/Assets/img/progetti/1725.webm)
 
 ## Description
 This project is developed in C using the MLX library on Linux Ubuntu.
